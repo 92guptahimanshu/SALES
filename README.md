@@ -2,7 +2,25 @@
 
 Given code is written on Pyspark on Databricks cloud platform.
 
+RELATIONAL DATABASE STRUCTURE-
+Database- sales
+
+Curated tables-
+•	sales.salesData
+•	sales.customer
+•	sales.customer_weather
+
+Final dataset table-
+•	sales.dataset
+
+Transformed tables-
+•	sales.Average_quantity_per_product
+•	sales.Top_selling_pro_percustomer
+
+
 There is single notebook handling all the requirements-
+
+TASKS PERFORMED-
 
 •	Data ingestion from csv
 •	Data ingestion from API
