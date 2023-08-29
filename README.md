@@ -1,6 +1,7 @@
 # SALES
 
 Given code is written on Pyspark on Databricks cloud platform.
+Database and schema is created on Delta lake.
 
 RELATIONAL DATABASE STRUCTURE-
 Database- sales
